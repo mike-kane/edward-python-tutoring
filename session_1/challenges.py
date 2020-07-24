@@ -1,9 +1,15 @@
-print("it worked!")
+# print("it worked!")
 
 # Here are some practice problems you should be able to puzzle out after Session 1
 
 
 ## Problem  : Create an empty list called "list_1". Append 5 different integers to it
+list_1=[]
+list_1.append(1)
+list_1.append(2)
+list_1.append(3)
+list_1.append(4)
+print(list_1)
 
 
 ## Problem  : Create another empty list called "list_2". Then, write a loop that squares each number in list_1 and appends it to list_2
