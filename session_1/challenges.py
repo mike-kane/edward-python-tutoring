@@ -2,6 +2,7 @@ print("it worked!")
 
 # Here are some practice problems you should be able to puzzle out after Session 1
 
+
 ## Problem  : Create an empty list called "list_1". Append 5 different integers to it
 
 
@@ -26,7 +27,7 @@ print("it worked!")
 ## Problem  : Modify your function so that you can choose a starting number, an ending number, and how many numbers to count by (count by 2s, by 3s, etc)
 
 
-## Problem  : Fizzbuzz
+## Problem  : Fizzbuzz - Loop through every number between 1 and 100. If the number is evenly divisible by 3, print "FIZZ". If the number is evenly divisible by 5, print "BUZZ". If the number is evenly divisible by 3 and 5, print "FIZZBUZZ". Otherwise, just print the number
 
 
-## Problem  : Rock Paper Scissors
+## Problem  : Build a small rock-paper-scissors program that asks the user for input "rock", "paper", or "scissors". Randomly generate a choice for the computer, and print the choices and the winner. 
